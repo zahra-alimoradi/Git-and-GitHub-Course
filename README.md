@@ -1,2 +1,8 @@
 # How use Git and GitHub
-## use Cmd
+
+ 
+requirements :
+
+pandas 
+numpy
+math
